@@ -1,10 +1,10 @@
 **Project Title**
 <br>
-Twitter Sentiment Analysis using Machine Learning and Flask
+**"Multilingual Sentiment Analysis of Pakistani Twitter Data Using Machine Learning with Flask Web Deployment"**
 <br>
 **Problem Statement**
 <br>
-
+This project develops an end-to-end multilingual sentiment analysis system for Pakistani Twitter data using machine learning. It compares multiple classification models on an ensemble-labeled dataset and deploys the best-performing model through a Flask-based web application for real-time sentiment prediction.
 **Dataset Information**
 <br>
 Source: Kaggle
