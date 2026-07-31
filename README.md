@@ -2,9 +2,11 @@
 <br>
 **"Multilingual Sentiment Analysis of Pakistani Twitter Data Using Machine Learning with Flask Web Deployment"**
 <br>
+
 **Problem Statement**
 <br>
 This project develops an end-to-end multilingual sentiment analysis system for Pakistani Twitter data using machine learning. It compares multiple classification models on an ensemble-labeled dataset and deploys the best-performing model through a Flask-based web application for real-time sentiment prediction.
+
 **Dataset Information**
 <br>
 Source: Kaggle
@@ -19,6 +21,7 @@ Negative (1)
 <br>
 Data was already preprocessed.
 <br>
+
 **Project Workflow**
 <br>
 Data Loading
@@ -45,6 +48,7 @@ Deploy to PythonAnywhere
 <br>
 simple web interface
 <br>
+
 **ML Model results** 
 <br>
 Models                      Accurcay 
@@ -57,10 +61,12 @@ SGD Classifier              0.844701
 <br>
 Multinomial Naive Bayes     0.815229
 <br>
+
 **Logistic Regression selected as the Best Model**
 <br>
 Improved Accuracy after Best model hyperparameter tunning (0.88049)
 <br>
+
 **Tools Utilized**
 Python
 Pandas
@@ -72,6 +78,7 @@ HTML/CSS
 Jupyter Notebook
 PythonAnywhere
 <br>
+
 **Live Demo Link** 
 <br>
 url = "http://127.0.0.1:5000/predict"
@@ -82,6 +89,7 @@ url = "https://DataInsightsbyAS.pythonanywhere.com/predict"
 <br>
 <img width="378" height="592" alt="Deployment Predictions" src="https://github.com/user-attachments/assets/b038990d-eebe-44ac-8ea6-8a32bd96b627" />
 <br>
+
 **Project presentation link**
 <br>
 
