@@ -51,7 +51,7 @@ simple web interface
 
 **ML Model results** 
 <br>
-Models                      Accurcay 
+Models                      Accuracy 
 <br>
 Logistic Regression         0.879662
 <br>
@@ -79,7 +79,7 @@ Jupyter Notebook
 PythonAnywhere
 <br>
 
-**Live Demo Link** 
+**Live Demo Link (model deployment & web Interface)** 
 <br>
 url = "http://127.0.0.1:5000/predict"
 <br>
@@ -92,4 +92,4 @@ url = "https://DataInsightsbyAS.pythonanywhere.com/predict"
 
 **Project presentation link**
 <br>
-
+https://www.loom.com/share/b41a0c66514c4644b4b7da215c9b41f0
